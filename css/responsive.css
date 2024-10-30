@@ -1,0 +1,436 @@
+@media (max-width: 775px) {
+
+    /* navbar start */
+    .navbar {
+        box-shadow: 0 8px 16px 0 rgba(171, 190, 209, 0.4);
+    }
+
+    .navbar .navbar-toggler {
+        border: none;
+        box-shadow: none;
+    }
+
+    .nav-link .logo {
+        margin-left: 40px;
+    }
+
+    .navbar .top-menu {
+        margin-top: 20px;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 0px 0;
+    }
+
+    /* banner */
+    #banner {
+        padding: 35px 0;
+
+    }
+
+    #banner .banner-img {
+        margin-right: 0;
+    }
+
+    #banner h1 {
+        font-size: 42px;
+        margin-left: 20px;
+    }
+
+    #banner p {
+        text-align: start;
+        margin-left: 20px;
+    }
+
+    #banner .img-fluid {
+        max-width: 60%;
+    }
+
+    #banner .banner-button {
+        margin-left: 20px;
+    }
+
+    #banner .row .banner-text-parent {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    /* banner end */
+    /* second start */
+    .container h3 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    .container p {
+
+        font-weight: 400;
+        font-size: 12px;
+        margin-top: 0px;
+    }
+
+    .clients-logos {
+        height: 30px;
+
+    }
+
+    .logo-bundle {
+        margin-right: 35px;
+    }
+
+    .logos {
+        padding: 10px;
+        display: inline-block;
+        /* margin: 10px 20px; */
+        width: 8px;
+    }
+
+    /* second end */
+    /* third start */
+    #third h3 {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+
+    .management {
+        padding: 20px 18px;
+        width: 299px;
+        height: 200px;
+        margin: 10px 45px;
+        margin-right: 50px;
+    }
+
+    /* third end */
+    /* FOURTH START */
+
+    .banner-text-parent {
+        margin-left: 20px;
+    }
+
+    .frame-img {
+        margin-left: 0px;
+        max-width: 60%;
+        margin-top: -70px;
+    }
+
+    #four .spending {
+        width: 601px;
+        height: 268px;
+        margin-left: 20px;
+        margin-top: 0.5px;
+        text-align: justify;
+    }
+
+    #four .spending .Pixelgrade {
+        font-size: 25px;
+    }
+
+    #four .spending p {
+        margin-top: 20px;
+        font-size: 12px;
+        width: 380px;
+        text-align: justify;
+    }
+
+    /* FOURTH END */
+    /* FIFTH START */
+    #five .five-text {
+        margin-top: -50px;
+        width: 300px;
+        height: 120px;
+        margin-left: 20px;
+    }
+
+    #five .five-text h4 {
+        font-size: 25px;
+    }
+
+    #five .icon-box {
+        width: 511px;
+        height: 155px;
+        margin-left: -82px;
+        flex-wrap: wrap;
+        margin-top: -20px;
+    }
+
+    #five .icon-box img {
+        width: 32px;
+        height: 32px;
+    }
+
+    #five .icon-box .number {
+        font-size: 22px;
+        line-height: 129%;
+        margin-left: 10px;
+    }
+
+    #five .icon-box .br {
+
+        font-size: 16px;
+        margin-top: 35px;
+        margin-left: -96px;
+    }
+
+    #five .icon-box .br-1 {
+        margin-left: -116px;
+    }
+
+    #five .icon-box .box {
+        width: 203px;
+        height: 3px;
+    }
+
+    /* FIFTH END */
+    /* SIX STARTS */
+    #six .img-fluid {
+        width: 60%;
+    }
+
+    #six .pana {
+        margin-top: 20px;
+        margin-left: 0;
+        height: 225px;
+    }
+
+    #six .six-text h4 {
+        font-size: 25px;
+        line-height: 122%;
+        width: 408px;
+    }
+
+    #six .six-text {
+        margin-left: 20px;
+        margin-top: 54.7px;
+    }
+
+    #six .six-text p {
+        margin-top: 20px;
+        font-size: 12px;
+        width: 360px;
+    }
+
+    /* SIX ENDS */
+    /* SEVEN STARTS */
+    #seven .container {
+
+        height: 470px;
+        margin-top: 48px;
+        padding-top: 32px;
+    }
+
+    #seven .logo-text {
+        width: 300px;
+        height: 0px;
+        margin-left: 20px;
+    }
+
+    .logo-arrow {
+        border-radius: 8px;
+        width: 22px;
+        height: 32px;
+        margin-right: 12px;
+        margin-top: 0px;
+    }
+
+    #seven .logo-text .meet {
+        margin-top: 1px;
+    }
+
+    #seven .d-flex .meet {
+        font-size: 9px;
+    }
+
+    #seven .seven-img {
+        margin-left: 40px;
+    }
+
+    #seven .seven-text {
+        margin-top: 335px;
+        width: 365px;
+        height: 262px;
+        margin-left: -20px;
+    }
+
+    #seven .seven-text p {
+        font-size: 12px;
+    }
+
+    #seven .meet .img-fluid {
+        width: 8px;
+    }
+
+    /* SEVEN ENDS */
+    /* EIGHT STARTS */
+    #eight .container p {
+        font-size: 14px;
+        margin-top: 0px;
+    }
+
+    #eight .eight-text {
+        width: 350px;
+        margin-left: 20px;
+    }
+
+    #eight .eight-text h4 {
+        font-size: 25px;
+        margin-top: 50PX;
+    }
+
+    #eight .eight-text p {
+        font-size: 12px;
+        width: 357px;
+        padding-top: 8px;
+    }
+
+    #eight .row .box {
+        padding: 16px;
+        width: 310px;
+        height: 150px;
+        margin-top: 171px;
+        margin-left: 28px;
+    }
+
+    #eight .row .img-1 {
+        margin-left: 30px;
+    }
+
+    #eight .row .img-2 {
+        margin-left: 30px;
+    }
+
+    #eight .row .img-3 {
+        margin-left: 30px;
+    }
+
+    #eight .container {
+        height: 1000px;
+        margin-top: 200px;
+    }
+
+    #eight .img-1 {
+        margin-top: 15px;
+    }
+
+    #eight .img-2 {
+        margin-top: 15px;
+    }
+
+    #eight .img-3 {
+        margin-top: 15px;
+    }
+
+    #eight.img-fluid {
+
+        margin-top: 1px;
+    }
+
+    /* EIGHT ENDS */
+    /* NINE STARTS */
+    #nine .text-box {
+        width: 887px;
+        height: 152px;
+        margin-left: 0.5px;
+    }
+
+    #nine .text-box h4 {
+        font-size: 25px;
+    }
+
+    #nine .container {
+        height: 200px;
+        margin-top: 135.5px;
+    }
+
+    #nine .text-box {
+        width: 310px;
+        height: 145px;
+        margin-left: 60px;
+    }
+
+    #nine .demo {
+        margin-left: 143px;
+        margin-top: -68px;
+        padding: 16px 20px;
+        width: 140px;
+        height: 53px;
+    }
+
+    #nine .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin-top: -20px;
+    }
+
+    /* NINE ENDS */
+    /* TEN STARTS */
+    #ten .row {
+        padding: 19px 136px;
+        height: 850px;
+        width: 0;
+        background: var(--neutral-black);
+    }
+
+    #ten .footer-logo p {
+        font-size: 14px;
+        line-height: 150%;
+
+    }
+
+    #ten .footer-logo {
+        margin-left: -35px;
+        width: 158px;
+        text-align: start !important;
+    }
+
+    #ten .social {
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+    #ten a {
+        font-weight: 400;
+        font-size: 14px;
+        margin-left: 3px;
+        width: 150px;
+    }
+
+    #ten .logo-part p {
+        margin-left: -30px;
+        font-weight: 400;
+        font-size: 16px;
+        margin-top: 20.67px;
+        width: 205px;
+        line-height: 28px;
+    }
+
+    #ten footer .company {
+        margin-top: -45px;
+        margin-right: 30px;
+    }
+
+    #ten footer .support {
+        margin-top: -60px;
+    }
+
+    #ten h6 {
+        width: 150px;
+    }
+
+    #ten .input {
+        margin-left: -50px;
+
+    }
+
+    #ten footer .date {
+        margin: -35px;
+    }
+
+    #ten .px-4 {
+        padding-right: 1.5rem;
+        margin-left: 150px !important;
+    }
+
+    /* TEN ENDS  */
+}
+
+/* MOBILE RESPOSIVE END*/
